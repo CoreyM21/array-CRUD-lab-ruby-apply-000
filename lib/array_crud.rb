@@ -22,7 +22,8 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  
+  elements = ["wow", "earth", "wind", "water", "fire", "arrays!"]
+  wow_elements = elements.pop
 end
 
 def retrieve_element_from_index(array, index_number)
