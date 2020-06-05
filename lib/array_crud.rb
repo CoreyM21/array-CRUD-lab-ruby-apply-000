@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["earth", "wind", "water", "fire"]
-  add_element_to_end_of_array famous_cats << "plasma"
+  add_element_to_end_of_array << "plasma"
 end
 
 def add_element_to_start_of_array(array, element)
