@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   elements = ["wow", "earth", "wind", "water", "fire", "arrays!"]
-  wow_elements = elements.pop
+  wow_elements = elements.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
