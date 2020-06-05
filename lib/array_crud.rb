@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
   ["wow", "I", "am", "really", "learning", "arrays!"]
-  print "#{array[5]}"
+  index_number = "#{array[5]}"
 end
