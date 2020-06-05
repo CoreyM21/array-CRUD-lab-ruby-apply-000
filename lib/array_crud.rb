@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   elements = ["earth", "wind", "water", "fire", "arrays!"]
-  arrays! = elements.pop
+  arrays!_elements = elements.pop
 end
 
 def remove_element_from_start_of_array(array)
